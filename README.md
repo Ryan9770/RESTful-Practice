@@ -1,8 +1,7 @@
 # RESTful
-스프링 부트로 RESTful 방식의 웹 구현
-
 # REST API란?
-"하이퍼텍스트를 포함한 self-descriptive한 메시지의 uniform interface를 통해 리소스에 접근하는 API." - Roy T. Fielding
+"하이퍼텍스트를 포함한 self-descriptive한 메시지의 uniform interface를 통해 리소스에 접근하는 API." 
+- Roy T. Fielding
 
 # REST API의 조건
 REST의 제약 조건중에서 특히 Self-descriptive와 HATEOAS를 만족시키는 API.
